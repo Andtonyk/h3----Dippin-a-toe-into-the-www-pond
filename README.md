@@ -2,3 +2,28 @@ Tehtävä H2 - Kaikki testit on toteuttu seuraavanlaisella koneella: Windows 10 
 
 # H3 - Kohti verkkoa
 ## Tiivistelmät teksteistä The Apache Software Foundation 2023: Apache HTTP Server Version 2.4 ja Karvinen 2018: Name Based Virtual Hosts on Apache – Multiple Websites to Single IP Address
+
+
+## Muodostetun verkkopalvelimen saattaminen verkkoon
+
+### A - 
+
+
+### B - 
+
+
+### C - 
+
+
+### D - 
+
+
+### E - 
+
+
+### F - 
+
+
+### M - GitHUb Education
+
+Hankin onnistuneesti GitHUb Educationin ja käyttäen siitä saatuja etuja mahdollistin verkkopalvelimen hankkimisen ilman maksuja.
