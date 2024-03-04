@@ -49,22 +49,38 @@ Tämän jälkeen sinun pitäisi löytää sivu haluamasi selaimen http://localho
 
 ## Muodostetun verkkopalvelimen saattaminen verkkoon
 
-### A - 
+### A - LocalHostin näkyvyys
+
+![localhost nakyy haussa](https://github.com/Andtonyk/h1---Debian/assets/149326156/972eba1f-ab29-4551-981e-51f4b8d883dc)
+
+### B - Verkkosivun journalctl haku
+
+Hain tiedon käyttämällä komentoa. journalctl --since "vvvv-kk-pp hh:mm:ss". Tämä rajasi verkkosivulla käynnistä alla olevan mukaisen ilmoituksen lokeille.
+
+![Verkkosivun journalctl haku](https://github.com/Andtonyk/h1---Debian/assets/149326156/a0b15063-c8dd-4275-bff5-79be2b1f52da)
 
 
-### B - 
+### C - Etusivun näkyminen nimen kutsulla
+
+![andreask example com nakyy haussa](https://github.com/Andtonyk/h1---Debian/assets/149326156/78f3057f-7338-46f7-9598-56772aedb3dd)
 
 
-### C - 
+### E - Html-validointi
 
+Sivun htmö-validoinnin testaus kuvan mukaisella rakenteella
 
-### D - 
+![html5 verifiointi](https://github.com/Andtonyk/h1---Debian/assets/149326156/e5fec693-8f45-4f8d-8338-ff95f7ee77eb)
 
+Validointi onnistui
 
-### E - 
+![html5 verifioitu](https://github.com/Andtonyk/h1---Debian/assets/149326156/1e8206e6-5e08-430c-adc6-d85ad518f803)
 
+### F - Curl
 
-### F - 
+![curl- ja curl](https://github.com/Andtonyk/h1---Debian/assets/149326156/8a3e5c8f-7d2e-4909-98d1-9437f1bb9d52)
+
+Curl mahdollistaa kommunikoinnin kaksi suuntaisesti palvelimen kanssa. Sillä voidaan syöttää dataa ja pyytää tietoa muodostetusta kohteesta.
+Curl -l pyytää FTP-palvelimen näyttämään rakenteensa name-only listana. Eli se rakentaa pyydetyn palvelimen rakenteista koneella muodostetun listauksen.
 
 
 ### M - GitHUb Education
