@@ -1,4 +1,4 @@
-Tehtävä H2 - Kaikki testit on toteuttu seuraavanlaisella koneella: Windows 10 OS:llä, Google Chrome selaimella ja koneena on toiminut Legion 5 kannettava. 16Gt RAM, AMD Ryzen 7 5800H, NVIDIA Geforce 3070 ja 200GB vapaata levytilaa SSD-levyasemalla.
+Tehtävä H - Kaikki testit on toteuttu seuraavanlaisella koneella: Windows 10 OS:llä, Google Chrome selaimella ja koneena on toiminut Legion 5 kannettava. 16Gt RAM, AMD Ryzen 7 5800H, NVIDIA Geforce 3070 ja 200GB vapaata levytilaa SSD-levyasemalla.
 
 # H3 - Kohti verkkoa
 ## Tiivistelmät teksteistä The Apache Software Foundation 2023: Apache HTTP Server Version 2.4 ja Karvinen 2018: Name Based Virtual Hosts on Apache – Multiple Websites to Single IP Address
